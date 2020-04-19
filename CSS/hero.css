@@ -1,5 +1,6 @@
 body{
 	margin: 0;
+	font-family: Helvetica, Ariel, sans-serif;
 }
 
 header{
@@ -10,7 +11,7 @@ header{
 
 header h1{
 	color: white;
-	font-family: Helvetica, Ariel, sans-serif;
+
 }
 
 header img{
