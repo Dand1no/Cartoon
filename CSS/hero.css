@@ -10,3 +10,8 @@ header{
 header h1{
 	color: white;
 }
+
+header img{
+	border border-radius: 150px
+
+}
