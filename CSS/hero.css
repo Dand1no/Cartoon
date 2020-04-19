@@ -1,12 +1,14 @@
 body{
 	margin: 0;
 	font-family: Helvetica, Ariel, sans-serif;
+	font-size: 20px;
+	line-height: 30px;
 }
 
 header{
-	background-color: #5ACA18;
+	background-color: 
 	text-align: center;
-	padding-top: 35px;
+	padding-top: 40px;
 }
 header h1{
 	color: red;
@@ -33,10 +35,34 @@ main img{
 }
 
 h2{
-	font-size: 35px;
+	font-size: 40px;
 	color: red;
 }
 
+a{
+	color: red;
+}
+a:hover{
+	color: white;
+	background-color: #5ACA18;
+}
 
+footer{
+	background-color: #6931B1;
+	text-align: center;
+	color: white;
+	padding: 50px;
+}
 
+footer p{
+	margin: 0;
+}
+
+footer a{
+	color: white;
+}
+
+footer a:hover{
+	opacity: .5;
+	background-color: transparent;
 
